@@ -1,0 +1,8 @@
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\bin\x64\Debug\Insel Editor.exe
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\bin\x64\Debug\Insel Editor.pdb
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\obj\x64\Debug\Insel_Editor.Form1.resources
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\obj\x64\Debug\Insel_Editor.Properties.Resources.resources
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\obj\x64\Debug\Insel Editor.csproj.GenerateResource.Cache
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\obj\x64\Debug\Insel Editor.exe
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\obj\x64\Debug\Insel Editor.pdb
+C:\Users\Benny\documents\visual studio 2010\Projects\Insel Editor\Insel Editor\obj\x64\Debug\Insel Editor.csprojResolveAssemblyReference.cache
